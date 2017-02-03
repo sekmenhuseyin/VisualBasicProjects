@@ -1,0 +1,12 @@
+frm_Messenger = 10, 15, 841, 680, C, 0, 0, 894, 725, C
+frm_Options = -7, 45, 882, 655, C, 0, 0, 896, 725, C
+md_Main = 32, 65, 849, 558, Z
+md_ini = 44, 58, 825, 551, C
+md_ping = 65, 69, 782, 562, C
+md_docking = 0, 0, 0, 0, C
+md_encrypt = 44, 58, 761, 551, C
+md_registry = 22, 29, 740, 522, C
+mdl_others = 57, 43, 777, 536, C
+frm_Change = 44, 58, 749, 551, C, 22, 29, 727, 522, C
+frm_GetPass = 66, 87, 771, 580, C, 115, 44, 820, 537, C
+cm_LAN = 44, 58, 750, 551, C

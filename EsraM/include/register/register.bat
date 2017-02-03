@@ -1,0 +1,14 @@
+regsvr32 /s asycfilt.dll
+regsvr32 /s comcat.dll
+regsvr32 /s comctl32.dll
+regsvr32 /s comdlg32.dll
+regsvr32 /s DAO350.DLL
+regsvr32 /s msado20.tlb
+regsvr32 /s mscomct2.ocx
+regsvr32 /s msvbvm60.dll
+regsvr32 /s oleaut32.dll
+regsvr32 /s olepro32.dll
+regsvr32 /s SENXPCTL.ocx
+regsvr32 /s stdole2.tlb
+regsvr32 /s tabctl32.ocx
+regsvr32 /s wmp.dll

@@ -1,0 +1,20 @@
+[ErrorDetails]
+Now=          14.06.2011 12:12:13 
+Source=       Project1
+FormName=     Form1
+Procedure=    Command1
+Number=        53 
+Description=  File not found
+HelpContext=  1000053
+HelpFile=     
+LastDllError= 0
+[ErrorDetails]
+Now=          14.06.2011 12:12:27 
+Source=       Project1
+FormName=     Form1
+Procedure=    Command1
+Number=        53 
+Description=  File not found
+HelpContext=  1000053
+HelpFile=     C:\WINDOWS\Help\VBENLR98.CHM
+LastDllError= 0

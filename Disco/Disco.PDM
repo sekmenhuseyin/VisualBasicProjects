@@ -1,0 +1,268 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+Most Recent Deploy=Folder Deployment 1
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=c:\Documents and Settings\nefret etme\Desktop\disco
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco slow.exe=
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco power.exe=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+
+[Package|Dep File 1|Files Added]
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco slow.exe=
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco power.exe=
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco slow.exe=Yes
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco power.exe=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco slow.exe=$(AppPath)
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco power.exe=$(AppPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=Disco.CAB
+DepCabRun=Disco.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=c:\Documents and Settings\nefret etme\Desktop\disco
+ProjectFolder=E:\Hüseyin\Denemelerim\Visual Basic\Disco
+ServerSideCab=
+File1=c:\Documents and Settings\nefret etme\Desktop\disco\Disco.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|ismail|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=c:\Documents and Settings\nefret etme\Desktop\disco
+
+[Package|ismail|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ismail|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ismail|Files Found]
+
+[Package|ismail|Files Released]
+
+[Package|ismail|Missing Dependency Information]
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco slow.exe=
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco power.exe=
+
+[Package|ismail|Out-of-Date Dependency Information]
+
+[Package|ismail|Files Added]
+e:\hüseyin\denemelerim\visual basic\disco\disco slow.exe=
+e:\hüseyin\denemelerim\visual basic\disco\disco power.exe=
+
+[Package|ismail|Files Removed]
+
+[Package|ismail|Files In Project]
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco slow.exe=Yes
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco power.exe=Yes
+
+[Package|ismail|Configure Registry Files]
+Applicable=
+
+[Package|ismail|Configure Remote Servers]
+Applicable=
+
+[Package|ismail|Install Locations]
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco.exe=$(ProgramFiles)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco slow.exe=$(AppPath)
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco power.exe=$(AppPath)
+
+[Package|ismail|Configure Shared Files]
+Applicable=
+
+[Package|ismail|DepFile]
+DepCabFile=Disco.CAB
+DepCabRun=Disco.INF
+
+[Package|ismail|Package]
+PackageFolder=c:\Documents and Settings\nefret etme\Desktop\disco
+ProjectFolder=E:\Hüseyin\Denemelerim\Visual Basic\Disco
+ServerSideCab=
+File1=c:\Documents and Settings\nefret etme\Desktop\disco\Disco.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Deploy|Folder Deployment 1|Root]
+Package=ismail
+Handler=PDWizard.FolderDplySubWiz
+Folder=c:\Documents and Settings\nefret etme\Desktop\disco\New Folder
+
+[Deploy|ismail|Root]
+Package=ismail
+Handler=PDWizard.FolderDplySubWiz
+Folder=c:\Documents and Settings\nefret etme\Desktop\disco\New Folder
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\Documents and Settings\nefret etme\Desktop\disco
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco slow.exe=
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco power.exe=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+e:\hüseyin\denemelerim\visual basic\disco\disco slow.exe=
+e:\hüseyin\denemelerim\visual basic\disco\disco power.exe=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco slow.exe=Yes
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco power.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco.exe=$(ProgramFiles)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco slow.exe=$(AppPath)
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco power.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco.exe=No
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco slow.exe=No
+E:\Hüseyin\Denemelerim\Visual Basic\Disco\Disco power.exe=No
+
+[Package|Standard Setup Package 1|DepFile]
+DepCabFile=Disco.CAB
+DepCabRun=Disco.INF
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=1.44 MB
+Title=Disco
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Disco
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Disco]
+Icon1=Disco.exe
+Title1=Disco
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2="Disco slow.exe"
+Title2=Disco Slow
+StartIn2=$(AppPath)
+Key2=Icon4
+Icon3="Disco power.exe"
+Title3=Disco Power
+StartIn3=$(AppPath)
+Key3=Icon5
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=c:\Documents and Settings\nefret etme\Desktop\disco
+ProjectFolder=E:\Hüseyin\Denemelerim\Visual Basic\Disco
+ServerSideCab=
+File1=c:\Documents and Settings\nefret etme\Desktop\disco\setup.exe
+File2=c:\Documents and Settings\nefret etme\Desktop\disco\Setup.Lst
+File3=c:\Documents and Settings\nefret etme\Desktop\disco\Disco.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

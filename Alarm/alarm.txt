@@ -1,0 +1,5 @@
+. alarmý kontrol eden baþka bi form lazým
+. alarm sayfasý saklanacaðýna unload edilsin
+. alarmýn kaç dakika çalacaðý sorulsun
+. pc kapat seçeneðine stand by eklenecek
+. "C:\WINDOWS\system32\rundll32.exe powrprof.dll,SetSuspendState"
